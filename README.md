@@ -2,7 +2,7 @@
 
 ## Link to video walthrough
 
-[App Demo](https://drive.google.com/file/d/1341qgjnUNX3VUF40y_ty5XURS_l3XvUd/view)
+[SVG Logo Maker Walkthrough Video](https://drive.google.com/file/d/1341qgjnUNX3VUF40y_ty5XURS_l3XvUd/view)
 
 ## Description
 
