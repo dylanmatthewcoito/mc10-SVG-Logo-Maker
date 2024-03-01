@@ -1,27 +1,21 @@
 # Module 10 Challenge: SVG Logo Maker
 
-Link to video walthrough
+## Link to video walthrough
 
+[App Demo](https://drive.google.com/file/d/1341qgjnUNX3VUF40y_ty5XURS_l3XvUd/view)
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This application 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+In the termianl run `npm install` to install the dependencies then `node index.js` to make a new logo.svg file.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![svg-logo-example](https://github.com/dylanmatthewcoito/mc9-README-generator/assets/71201051/a3b2f454-e742-4493-88c6-e40e09d3ef69)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+* This project uses code from the [logo-maker] project, available at [] https://github.com/EmpireAntz/logo-maker
+  
